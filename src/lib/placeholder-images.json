@@ -1,0 +1,232 @@
+{
+  "placeholderImages": [
+    {
+      "id": "course-frontend",
+      "description": "A course about frontend development",
+      "imageUrl": "/images/course-frontend.png",
+      "imageHint": "code abstract"
+    },
+    {
+      "id": "course-python",
+      "description": "A course about Python programming",
+      "imageUrl": "/images/course-python.png",
+      "imageHint": "serpent code"
+    },
+    {
+      "id": "course-ai",
+      "description": "A course about Artificial Intelligence",
+      "imageUrl": "/images/course-ai.png",
+      "imageHint": "robot brain"
+    },
+    {
+      "id": "course-tools",
+      "description": "A course about developer tools",
+      "imageUrl": "/images/course-tools.png",
+      "imageHint": "toolbox wrench"
+    },
+    {
+      "id": "video-1",
+      "description": "Thumbnail for a YouTube video",
+      "imageUrl": "/images/video-1.png",
+      "imageHint": "coding screen"
+    },
+    {
+      "id": "video-2",
+      "description": "Thumbnail for a YouTube video",
+      "imageUrl": "/images/video-2.png",
+      "imageHint": "developer setup"
+    },
+    {
+      "id": "video-3",
+      "description": "Thumbnail for a YouTube video",
+      "imageUrl": "/images/video-3.png",
+      "imageHint": "terminal commands"
+    },
+    {
+      "id": "video-4",
+      "description": "Thumbnail for a YouTube video",
+      "imageUrl": "/images/video-4.png",
+      "imageHint": "web design"
+    },
+    {
+      "id": "review-figma",
+      "description": "Logo for Figma",
+      "imageUrl": "/images/review-figma.png",
+      "imageHint": "design tool"
+    },
+    {
+      "id": "review-vscode",
+      "description": "Logo for VS Code",
+      "imageUrl": "/images/review-vscode.png",
+      "imageHint": "code editor"
+    },
+    {
+      "id": "review-notion",
+      "description": "Logo for Notion",
+      "imageUrl": "/images/review-notion.png",
+      "imageHint": "productivity app"
+    },
+    {
+      "id": "review-github",
+      "description": "Logo for Github",
+      "imageUrl": "/images/review-github.png",
+      "imageHint": "code repository"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "A woman smiling",
+      "imageUrl": "/images/testimonial-1.png",
+      "imageHint": "portrait woman"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "A man smiling",
+      "imageUrl": "/images/testimonial-2.png",
+      "imageHint": "portrait man"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "A woman smiling",
+      "imageUrl": "/images/testimonial-3.png",
+      "imageHint": "portrait woman"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "A man smiling",
+      "imageUrl": "/images/testimonial-4.png",
+      "imageHint": "portrait man"
+    },
+    {
+      "id": "testimonial-5",
+      "description": "A woman smiling",
+      "imageUrl": "/images/testimonial-5.png",
+      "imageHint": "portrait woman"
+    },
+    {
+      "id": "blog-success-secrets",
+      "description": "An article about secrets to success",
+      "imageUrl": "/images/blog-success-secrets.png",
+      "imageHint": "abstract success"
+    },
+    {
+      "id": "blog-emotional-intelligence",
+      "description": "An article about emotional intelligence",
+      "imageUrl": "/images/blog-emotional-intelligence.png",
+      "imageHint": "abstract heart brain"
+    },
+    {
+      "id": "blog-personal-success",
+      "description": "An article about personal and professional success",
+      "imageUrl": "/images/blog-personal-success.png",
+      "imageHint": "portrait jumping"
+    },
+    {
+      "id": "blog-time-management",
+      "description": "An article about time management",
+      "imageUrl": "/images/blog-time-management.png",
+      "imageHint": "time management"
+    },
+    {
+      "id": "blog-freelancing-guide",
+      "description": "An article about freelancing",
+      "imageUrl": "/images/blog-freelancing-guide.png",
+      "imageHint": "freelancing work"
+    },
+    {
+      "id": "blog-learn-programming",
+      "description": "An article about learning to code",
+      "imageUrl": "/images/blog-learn-programming.png",
+      "imageHint": "coding programming"
+    },
+    {
+      "id": "blog-digital-marketing",
+      "description": "An article about digital marketing",
+      "imageUrl": "/images/blog-digital-marketing.png",
+      "imageHint": "digital marketing"
+    },
+    {
+      "id": "blog-public-speaking",
+      "description": "An article about public speaking",
+      "imageUrl": "/images/blog-public-speaking.png",
+      "imageHint": "public speaking"
+    },
+    {
+      "id": "blog-building-habits",
+      "description": "An article about building habits",
+      "imageUrl": "/images/blog-building-habits.png",
+      "imageHint": "habit building"
+    },
+    {
+      "id": "blog-investing-basics",
+      "description": "An article about investing basics",
+      "imageUrl": "/images/blog-investing-basics.png",
+      "imageHint": "investing basics"
+    },
+    {
+      "id": "hero-image",
+      "description": "Yehia Mohammed portrait",
+      "imageUrl": "/images/yehia-mohammed.png",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "notion-course-image",
+      "description": "Notion workspace for the course section",
+      "imageUrl": "/images/notion-workspace.png",
+      "imageHint": "organization app"
+    },
+    {
+      "id": "feature-passive-learning",
+      "description": "Feature image for passive learning",
+      "imageUrl": "/images/feature-passive-learning.png",
+      "imageHint": "coding practice"
+    },
+    {
+      "id": "feature-portfolio-hire",
+      "description": "Feature image for portfolio projects",
+      "imageUrl": "/images/feature-portfolio-hire.png",
+      "imageHint": "impressive portfolio"
+    },
+    {
+      "id": "feature-ai-workflows",
+      "description": "Feature image for AI workflows",
+      "imageUrl": "/images/feature-ai-workflows.png",
+      "imageHint": "AI coding"
+    },
+    {
+      "id": "feature-developer-community",
+      "description": "Feature image for developer community",
+      "imageUrl": "/images/feature-developer-community.png",
+      "imageHint": "developer community"
+    },
+    {
+      "id": "playlist-learn",
+      "description": "How to learn",
+      "imageUrl": "/images/playlist-learn.png",
+      "imageHint": "learning book"
+    },
+    {
+      "id": "playlist-study",
+      "description": "Study smart",
+      "imageUrl": "/images/playlist-study.png",
+      "imageHint": "smart study"
+    },
+    {
+      "id": "playlist-focus",
+      "description": "Focus tips",
+      "imageUrl": "/images/playlist-focus.png",
+      "imageHint": "focus concentration"
+    },
+    {
+      "id": "playlist-present-simple",
+      "description": "Present simple tense",
+      "imageUrl": "/images/playlist-present-simple.png",
+      "imageHint": "english grammar"
+    },
+    {
+      "id": "playlist-premiere",
+      "description": "Premiere tutorial",
+      "imageUrl": "/images/playlist-premiere.png",
+      "imageHint": "video editing"
+    }
+  ]
+}
